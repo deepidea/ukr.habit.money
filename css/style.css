@@ -186,7 +186,6 @@ Examples of online services see in Documentation  */
 ===	#Magnific Popup CSS File
 
 */
-
 @font-face {
     font-family: "Raleway";
     src: url("../fonts/Raleway.ttf");
@@ -6036,7 +6035,8 @@ select.input-border {
 }
 .footer-soc-a a {
   font-size:18px;
-  padding:12px;
+  font-weight: bold;
+  /*padding: 2px;*/
 }
 
 /* #FOOTER 2 NEW
